@@ -3,7 +3,7 @@
         {
             "title": "Front end",
             "color": "#6BD1FF",
-            "description": "",
+            "description": "Collection of some Alura videos about Front end development",
             "videos": [
                 {
                     "title": "Frameworks de Front End",
@@ -31,7 +31,7 @@
         {
             "title": "Back end",
             "color": "#00C86F",
-            "description": "",
+            "description": "Collection of some Alura videos about Back end development",
             "videos": [
                 {
                     "title": "Spring Framework. ¿Qué es ?",
@@ -59,7 +59,7 @@
         {
             "title": "Innovation management",
             "color": "#FFBA05",
-            "description": "",
+            "description": "Collection of some Alura videos relevant to Innovation Management",
             "videos": [
                 {
                     "title": "Consejos para crear tu Portfolio",
