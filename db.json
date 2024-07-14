@@ -1,6 +1,7 @@
 {
     "categories": [
         {
+            "id": 0,
             "title": "Front end",
             "color": "#6BD1FF",
             "description": "Collection of some Alura videos about Front end development",
@@ -29,6 +30,7 @@
             ]
         },
         {
+            "id": 1,
             "title": "Back end",
             "color": "#00C86F",
             "description": "Collection of some Alura videos about Back end development",
@@ -57,6 +59,7 @@
             ]
         },
         {
+            "id": 2,
             "title": "Innovation management",
             "color": "#FFBA05",
             "description": "Collection of some Alura videos relevant to Innovation Management",
